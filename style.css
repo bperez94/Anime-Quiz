@@ -1,1 +1,15 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
 
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+#startButton {
+    position: relative;
+    right: -600px;
+    
+}
