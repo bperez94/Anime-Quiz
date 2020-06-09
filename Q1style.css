@@ -1,0 +1,18 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+#next1 {
+    position: relative;
+    right: -750px;
+}
+img {
+    position: relative;
+    right: -700px;
+}
