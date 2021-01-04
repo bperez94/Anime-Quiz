@@ -4,60 +4,14 @@ var questions = [
     {
         title:"Who is the main character of the popoluar anime Dragon Ball Z?",
         choices:["Goku","Gohan","Piccollo","trunks"],
-        ansewers:"Goku", 
+        answer:"Goku", 
     },
 
     {
         title:"Allmight is a side character of which anime?",
         choices:["bleach","Naruto","My Hero Academia","One Peice"],
-        ansewers:"My Hero Academia",
+        answer:"My Hero Academia",
     },
 
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
-
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
-
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
-
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
-
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
-
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
-
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
-
-    {
-        title:"",
-        choices:[],
-        ansewers:"",
-    },
+    
 ]
