@@ -6,7 +6,7 @@
 
 ## Description 
 A 10 question quiz to test your knowledge on popular anime.
- <img src = "images\anime quiz pic.png">
+ <img src = "animequizpic.png">
     
 ## Installation
 N/A
