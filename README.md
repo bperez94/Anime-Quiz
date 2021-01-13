@@ -1,25 +1,28 @@
-# ANIME QUIZ
+# Anime Quiz
+    
+#Created on 01/13/2021
 
-### Created 06/11/2020
+# By Brandon Perez
 
-#### By Brandon Perez
+## Description 
+A 10 question quiz to test your knowledge on popular anime.
+ <img src = "images\anime quiz pic.png">
+    
+## Installation
+N/A
+    
+## Known bugs
+N/A
+    
+## Contact Information
+brandonp940@gmail.com
+    
+## Technologies Used 
+HTML,CSS,JavaScript
+    
+## Contribution
 
-### Description
-This is a quiz on your anime knowledge. There are four choices per question and you have 60 seconds to answer each.
-
-## Known Bugs
-Timer is currntly not working
-Not all the next buttons have been set up yet, but the format is ready for it.
-
-## Technologies Used
-HTML
-CSS
-JAVASCRIPT
-BOOTSTRAP
-
-## Contribution Guidlines
-https://bperez94.github.io/week4hw/
-
+    
 ### License
-Copyright(c) 2020 By Brandon Perez
-This software is license under MIT license.
+MIT
+
